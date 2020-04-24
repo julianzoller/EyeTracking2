@@ -1,0 +1,6 @@
+D:\Dokumente\Uni\6. Semester\Patientenmonitoring\GazeFlowAPI-master\C#\Client GazeFlowAPI\Client GazeFlowAPI\bin\Debug\Client GazeFlowAPI.exe
+D:\Dokumente\Uni\6. Semester\Patientenmonitoring\GazeFlowAPI-master\C#\Client GazeFlowAPI\Client GazeFlowAPI\bin\Debug\Client GazeFlowAPI.pdb
+D:\Dokumente\Uni\6. Semester\Patientenmonitoring\GazeFlowAPI-master\C#\Client GazeFlowAPI\Client GazeFlowAPI\obj\x86\Debug\Client GazeFlowAPI.csprojResolveAssemblyReference.cache
+D:\Dokumente\Uni\6. Semester\Patientenmonitoring\GazeFlowAPI-master\C#\Client GazeFlowAPI\Client GazeFlowAPI\obj\x86\Debug\Client GazeFlowAPI.csproj.CoreCompileInputs.cache
+D:\Dokumente\Uni\6. Semester\Patientenmonitoring\GazeFlowAPI-master\C#\Client GazeFlowAPI\Client GazeFlowAPI\obj\x86\Debug\Client GazeFlowAPI.exe
+D:\Dokumente\Uni\6. Semester\Patientenmonitoring\GazeFlowAPI-master\C#\Client GazeFlowAPI\Client GazeFlowAPI\obj\x86\Debug\Client GazeFlowAPI.pdb
